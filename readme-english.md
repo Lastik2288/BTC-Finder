@@ -27,7 +27,7 @@ The program is written in Python on Windows 10.
 6. You can use it when you find the private key from the wallet on which there is a balance, then the private key will be moved to the Money.txt file. You don't need to create it.
 
 # PRICE
-For the first 3 buyers, the price of $ 50 will be used to promote the program to such an extent that you will win back the money in a day.
+For the first 3 buyers, the price of $50 will go to charitable foundations.
 To all those who did not have time to 5000 $ Contact me (Telegram) @abuaue11
 Prices are not taken from the air, but with a detailed analysis of the market for such programs.
 There are no analogues of this program.

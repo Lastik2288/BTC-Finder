@@ -32,4 +32,8 @@ To all those who did not have time to 5000 $ Contact me (Telegram) @abuaue11
 Prices are not taken from the air, but with a detailed analysis of the market for such programs.
 There are no analogues of this program.
 
+https://user-images.githubusercontent.com/99122688/257416566-770d288c-ad95-4b31-81c7-012ebd1747d9.png
+
+https://user-images.githubusercontent.com/99122688/257418616-b4195dfc-f096-4c2c-b40d-fc3e43c1dcff.png
+
 Here are the results of the program, but we are not thieves and we do not steal bitcoins.
